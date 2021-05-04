@@ -8,9 +8,9 @@
   font-family: sans-serif;
   text-align: center;
   padding-top: 100px;
-  background: #392767;
+  background: #0400ff;
   min-height: 100vh;
-  color: #e5daff;
+  color: #ffffff;
 }
 
 h1 {
@@ -23,13 +23,13 @@ h1 {
 
 input {
   font-size: 80px;
-  border-radius: 10px;
-  border: 1px solid #d2c0fd;
-  width: 25%;
+  border-radius: 15px;
+  border: 1px solid #ffffff;
+  width: 30%;
   padding: 10px;
   text-align: center;
-  background: #d2c0fd;
-  color: #2a1263;
+  background: #ffffff;
+  color: #000000;
 }
 
 input:first-child {
@@ -40,13 +40,13 @@ button {
   padding: 30px 40px;
   font-size: 30px;
   border-radius: 20px 40px;
-  background: #5f30e6;
+  background: #f50000;
   border: none;
   margin-bottom: 50px;
-  color: #d7cbf7;
+  color: #ffffff;
   cursor: pointer;
 }
 
 h2 {
-  font-size: 150px;
+  font-size: 50px;
 }
